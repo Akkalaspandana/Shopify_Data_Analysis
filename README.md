@@ -42,12 +42,6 @@ This project contains a complete data analysis workflow for Shopify e-commerce d
 - Business intelligence insights
 - Customizable reports and filters
 
-### 3. Presentation (`Shopify PPT.pptx.pdf`)
-- Executive summary of findings
-- Key performance indicators
-- Business recommendations
-- Visual data storytelling
-
 ## 🚀 Getting Started
 
 ### Prerequisites
